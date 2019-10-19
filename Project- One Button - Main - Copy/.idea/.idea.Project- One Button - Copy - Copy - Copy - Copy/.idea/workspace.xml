@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68ab7d04-d5bb-4427-a8b6-3cb9016b8581" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHolder.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="735">
+                    <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+                    <folding>
+                      <marker date="1571182012693" expanded="false" signature="6:130" ph="..." />
+                      <marker date="1571182012693" expanded="true" signature="173:5060" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="1424:1868" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="1930:5058" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="2019:2450" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="2965:3194" ph="/* When moveSpeed is considered &quot;off&quot;, its moveSpeed is set to 0. ... */" />
+                      <marker date="1571182012693" expanded="true" signature="3218:3711" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="3320:3688" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="3724:4216" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="3837:4206" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="4360:5052" ph="{...}" />
+                      <marker date="1571182012693" expanded="true" signature="4421:5031" ph="{...}" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/pauseGame.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <marker date="1571174455105" expanded="false" signature="6:101" ph="..." />
+                <marker date="1571174455105" expanded="true" signature="141:3997" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="379:544" ph="/* Grey image slot that covers the whole screen when paused, this is to prevent the player from exploiting the ab ... */" />
+                <marker date="1571174455105" expanded="true" signature="944:2089" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="982:1220" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="1084:1210" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="1253:1610" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="1304:1430" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="1643:2055" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="1743:1869" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="2107:2267" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="2286:3650" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="2348:2508" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="2565:2655" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="2688:2746" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="2779:2837" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="3125:3302" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="3311:3420" ph="/* ^ v  These two conditions switch each time ESC is pressed. ... */" />
+                <marker date="1571174455105" expanded="true" signature="3469:3644" ph="{...}" />
+                <marker date="1571174455105" expanded="true" signature="3802:3993" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/killPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+              <folding>
+                <marker date="1571177935673" expanded="false" signature="6:78" ph="..." />
+                <marker date="1571177935673" expanded="true" signature="119:1446" ph="{...}" />
+                <marker date="1571177935673" expanded="true" signature="255:1443" ph="{...}" />
+                <marker date="1571177935673" expanded="true" signature="364:1437" ph="{...}" />
+                <marker date="1571177935673" expanded="true" signature="483:618" ph="/* Destroy all the children within the player so that the lights attached will not glow while triangle ... */" />
+                <marker date="1571177935673" expanded="true" signature="675:746" ph="{...}" />
+                <marker date="1571177935673" expanded="true" signature="759:900" ph="/* Destroy these components so movement cannot be made while player is dead: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="80" column="70" lean-forward="true" selection-start-line="80" selection-start-column="70" selection-end-line="81" selection-end-column="93" />
+              <folding>
+                <marker date="1571166276212" expanded="false" signature="6:130" ph="..." />
+                <marker date="1571166276212" expanded="true" signature="175:5415" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="899:1086" ph="/* Animator slot (unused) ... */" />
+                <marker date="1571166276212" expanded="true" signature="1103:1786" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="1118:1290" ph="/* tempNumber is equal to the moveSpeed, so that when the moveSpeed variable becomes 0 and needs to go back to no ... */" />
+                <marker date="1571166276212" expanded="true" signature="1689:1780" ph="/* Get animator component in gameObject (unused) ... */" />
+                <marker date="1571166276212" expanded="true" signature="1844:4185" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="2556:2789" ph="/* if (playOnce == false) ... */" />
+                <marker date="1571166276212" expanded="true" signature="2799:3007" ph="/* Turn moveSpeed off or on based on isHeldDown boolean, also turns the light on or off by -0.1 or +0.1 increment ... */" />
+                <marker date="1571166276212" expanded="true" signature="3057:3297" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="3400:4070" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="3493:3702" ph="/* if (playOnce) ... */" />
+                <marker date="1571166276212" expanded="true" signature="3792:4060" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="4237:5413" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="4361:5407" ph="{...}" />
+                <marker date="1571166276212" expanded="true" signature="4532:4733" ph="/* debug to log to show that the collision is detected ... */" />
+                <marker date="1571166276212" expanded="true" signature="4795:4866" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spawn</find>
+      <find>Stop</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Pause</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/pauseGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/audioPlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TestExplosion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Parenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/destroyPlayerOnAwake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GOAL.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/killPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/cameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/startAtFrame.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/GOAL.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/cameraFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/pauseGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/killPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHolder.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="204" />
+    <option name="y" value="148" />
+    <option name="width" value="1280" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ab7d04-d5bb-4427-a8b6-3cb9016b8581" name="Default Changelist" comment="" />
+      <created>1571170749768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571170749768</updated>
+      <workItem from="1571170787906" duration="2308000" />
+      <workItem from="1571175824616" duration="641000" />
+      <workItem from="1571177968962" duration="2356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5305000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="204" y="148" width="1280" height="1400" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532787" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="TeamCity" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/audioPlay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1571166277312" expanded="true" signature="58:433" ph="{...}" />
+            <marker date="1571166277312" expanded="true" signature="193:307" ph="{...}" />
+            <marker date="1571166277312" expanded="true" signature="391:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TestExplosion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1571166273981" expanded="true" signature="62:621" ph="{...}" />
+            <marker date="1571166273981" expanded="true" signature="69:253" ph="/* Script to test if mesh will explode.  The triangleExplosion script will not work with meshes with quads or pol ... */" />
+            <marker date="1571166273981" expanded="true" signature="270:619" ph="{...}" />
+            <marker date="1571166273981" expanded="true" signature="339:527" ph="/* Start the coroutine in the triangleExplosion script, which gets the gameObject to shatter. Set destroy to true ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/startAtFrame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1571166275067" expanded="true" signature="67:940" ph="{...}" />
+            <marker date="1571166275067" expanded="true" signature="578:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Parenter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1571166276513" expanded="true" signature="57:1024" ph="{...}" />
+            <marker date="1571166276513" expanded="true" signature="251:712" ph="{...}" />
+            <marker date="1571166276513" expanded="true" signature="266:525" ph="/* If 2D collided object tag == &quot;Platform&quot;, become a child to that object. ... */" />
+            <marker date="1571166276513" expanded="true" signature="577:706" ph="{...}" />
+            <marker date="1571166276513" expanded="true" signature="888:1022" ph="{...}" />
+            <marker date="1571166276513" expanded="true" signature="946:1016" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GOAL.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <folding>
+            <marker date="1571173932233" expanded="false" signature="6:127" ph="..." />
+            <marker date="1571173932233" expanded="true" signature="162:2850" ph="{...}" />
+            <marker date="1571173932233" expanded="true" signature="979:1283" ph="{...}" />
+            <marker date="1571173932233" expanded="true" signature="1342:1679" ph="{...}" />
+            <marker date="1571173932233" expanded="true" signature="1584:1673" ph="{...}" />
+            <marker date="1571173932233" expanded="true" signature="1773:2848" ph="{...}" />
+            <marker date="1571173932233" expanded="true" signature="1788:1922" ph="/* If the player is touching gameObject and the boolean is set to false (meaning it has not been touched by playe ... */" />
+            <marker date="1571173932233" expanded="true" signature="1997:2842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/destroyPlayerOnAwake.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1571166276949" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571166276949" expanded="true" signature="129:379" ph="{...}" />
+            <marker date="1571166276949" expanded="true" signature="238:377" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/cameraFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+          <folding>
+            <marker date="1571174178640" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571174178640" expanded="true" signature="121:1104" ph="{...}" />
+            <marker date="1571174178640" expanded="true" signature="358:1102" ph="{...}" />
+            <marker date="1571174178640" expanded="true" signature="373:567" ph="/* If the player transform slot is null (which it always will be from the start), look for gameObjects tagged as  ... */" />
+            <marker date="1571174178640" expanded="true" signature="595:821" ph="{...}" />
+            <marker date="1571174178640" expanded="true" signature="831:982" ph="/* get player's x and y position and add the camera's offset x and y point position ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/pauseGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <marker date="1571174455105" expanded="false" signature="6:101" ph="..." />
+            <marker date="1571174455105" expanded="true" signature="141:3997" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="379:544" ph="/* Grey image slot that covers the whole screen when paused, this is to prevent the player from exploiting the ab ... */" />
+            <marker date="1571174455105" expanded="true" signature="944:2089" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="982:1220" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="1084:1210" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="1253:1610" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="1304:1430" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="1643:2055" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="1743:1869" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="2107:2267" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="2286:3650" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="2348:2508" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="2565:2655" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="2688:2746" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="2779:2837" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="3125:3302" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="3311:3420" ph="/* ^ v  These two conditions switch each time ESC is pressed. ... */" />
+            <marker date="1571174455105" expanded="true" signature="3469:3644" ph="{...}" />
+            <marker date="1571174455105" expanded="true" signature="3802:3993" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="80" column="70" lean-forward="true" selection-start-line="80" selection-start-column="70" selection-end-line="81" selection-end-column="93" />
+          <folding>
+            <marker date="1571166276212" expanded="false" signature="6:130" ph="..." />
+            <marker date="1571166276212" expanded="true" signature="175:5415" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="899:1086" ph="/* Animator slot (unused) ... */" />
+            <marker date="1571166276212" expanded="true" signature="1103:1786" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="1118:1290" ph="/* tempNumber is equal to the moveSpeed, so that when the moveSpeed variable becomes 0 and needs to go back to no ... */" />
+            <marker date="1571166276212" expanded="true" signature="1689:1780" ph="/* Get animator component in gameObject (unused) ... */" />
+            <marker date="1571166276212" expanded="true" signature="1844:4185" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="2556:2789" ph="/* if (playOnce == false) ... */" />
+            <marker date="1571166276212" expanded="true" signature="2799:3007" ph="/* Turn moveSpeed off or on based on isHeldDown boolean, also turns the light on or off by -0.1 or +0.1 increment ... */" />
+            <marker date="1571166276212" expanded="true" signature="3057:3297" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="3400:4070" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="3493:3702" ph="/* if (playOnce) ... */" />
+            <marker date="1571166276212" expanded="true" signature="3792:4060" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="4237:5413" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="4361:5407" ph="{...}" />
+            <marker date="1571166276212" expanded="true" signature="4532:4733" ph="/* debug to log to show that the collision is detected ... */" />
+            <marker date="1571166276212" expanded="true" signature="4795:4866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/killPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <marker date="1571177935673" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571177935673" expanded="true" signature="119:1446" ph="{...}" />
+            <marker date="1571177935673" expanded="true" signature="255:1443" ph="{...}" />
+            <marker date="1571177935673" expanded="true" signature="364:1437" ph="{...}" />
+            <marker date="1571177935673" expanded="true" signature="483:618" ph="/* Destroy all the children within the player so that the lights attached will not glow while triangle ... */" />
+            <marker date="1571177935673" expanded="true" signature="675:746" ph="{...}" />
+            <marker date="1571177935673" expanded="true" signature="759:900" ph="/* Destroy these components so movement cannot be made while player is dead: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHolder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+          <folding>
+            <marker date="1571182012693" expanded="false" signature="6:130" ph="..." />
+            <marker date="1571182012693" expanded="true" signature="173:5060" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="1424:1868" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="1930:5058" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="2019:2450" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="2965:3194" ph="/* When moveSpeed is considered &quot;off&quot;, its moveSpeed is set to 0. ... */" />
+            <marker date="1571182012693" expanded="true" signature="3218:3711" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="3320:3688" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="3724:4216" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="3837:4206" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="4360:5052" ph="{...}" />
+            <marker date="1571182012693" expanded="true" signature="4421:5031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
